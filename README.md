@@ -43,7 +43,7 @@ O modelo é capaz de reconhecer as seguintes 7 categorias de expressões:
 ### 1. Clonar ou acessar o repositório
 
 ```bash
-cd /caminho/para/fer2013
+https://github.com/Alexseyf/kaggle-fer2013-CNN.git
 ```
 
 ### 2. Criar o Ambiente Virtual com UV
